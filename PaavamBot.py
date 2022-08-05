@@ -8,6 +8,6 @@ bot = telebot.TeleBot(key)
 
 @bot.message_handler(commands=["aara"])
 def greet(msg):
-    bot.send_message(msg.chat.id, "nee etha?")
+    bot.send_message(msg.chat.id, "njan oru paavam")
 
 bot.polling()
