@@ -6,8 +6,8 @@ load_dotenv()
 key = os.getenv('API_KEY')
 bot = telebot.TeleBot(key)
 
-@bot.message_handler(commands=["greet"])
+@bot.message_handler(commands=["aara?"])
 def greet(msg):
-    bot.send_message(msg.chat.id, "hellooooo")
+    bot.send_message(msg.chat.id, "njan oru paavam")
 
 bot.polling()
