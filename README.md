@@ -4,4 +4,4 @@
 
 ### [INACTIVE] 
 
-(because it's hosted Heroku and I'll be billed 
+(because it's hosted on Heroku and I'll be billed :'(
