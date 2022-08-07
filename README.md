@@ -1,3 +1,5 @@
-### Open bot using this link <a href="https://t.me/PaavamBotBot">link</a>
+~~### Open bot using this link <a href="https://t.me/PaavamBotBot">link</a>~~
 
-#### use command '/aara'
+~~#### use command '/aara'~~
+
+###[INACTIVE]
