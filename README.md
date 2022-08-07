@@ -2,4 +2,6 @@
 
 ~~use command '/aara'~~
 
-### [INACTIVE]
+### [INACTIVE] 
+
+(because it's hosted Heroku and I'll be billed 
